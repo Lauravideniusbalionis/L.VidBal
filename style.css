@@ -2,3 +2,19 @@ img{
     height: 90px;
     border-radius: 50px;
 }
+body {
+    background-color: #DED9C4;
+ }
+ h1 {
+    color: #2E4C6D;
+}
+h3 {
+    color: #30475E;
+}
+hr {
+     border-style: none;
+     border-top-style: dotted;
+     border-color: #D0CAB2;
+     border-width: 5px;
+     width: 5%;
+}
