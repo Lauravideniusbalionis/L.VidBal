@@ -3,10 +3,10 @@ img{
     border-radius: 50px;
 }
 body {
-    background-color: #DED9C4;
+    background-color: #F9F7CF;
  }
  h1 {
-    color: #2E4C6D;
+    color: #30475E;
 }
 h3 {
     color: #30475E;
@@ -14,7 +14,7 @@ h3 {
 hr {
      border-style: none;
      border-top-style: dotted;
-     border-color: #D0CAB2;
+     border-color: #F2DCBB;
      border-width: 5px;
      width: 5%;
 }
